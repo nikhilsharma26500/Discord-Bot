@@ -5,7 +5,7 @@ This is a simple Discord bot that allows users to request information about a sp
 The bot is able to respond to the command "!hello" by sending the message "hello!" in the same channel that the command was sent.
 The bot is able to respond to the command "!info [Pokemon name]" by returning the name, type, and an image of the Pokemon, as well as its description. The info is returned in an Embed message.
 Usage
-To use the bot, you will first need to create a Discord bot and invite it to your server. You can do this by following these instructions.
+To use the bot, you will first need to create a Discord bot and invite it to your server. You can do this by following [these instructions](https://discordpy.readthedocs.io/en/latest/discord.html).
 
 Once the bot is added to your server, you can use the commands as described above.
 
